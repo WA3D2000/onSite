@@ -1,0 +1,13 @@
+body{
+    font-family: "Eczar", serif;
+    font-optical-sizing: auto;
+}
+img{
+    width:100%
+}
+.text{
+    align-self: center;
+}
+.products{
+    background-color: rgb(212, 238, 229);
+}
